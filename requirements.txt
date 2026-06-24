@@ -1,0 +1,7 @@
+torch
+transformers
+tqdm
+zhconv
+safetensors
+accelerate
+numpy
